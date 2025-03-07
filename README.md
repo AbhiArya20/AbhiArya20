@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" height="30px">
 <div class="display=flex; justify-content=center; align-items=center flex-wrap=wrap;">
-<picture >
+<picture class="flex=1">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AbhiArya20&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
@@ -13,7 +13,7 @@
 </picture>
 
 
-<picture>
+<picture class="flex=1">
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiArya20&layout=compact"
     media="(prefers-color-scheme: dark)"

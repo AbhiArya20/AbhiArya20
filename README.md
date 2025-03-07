@@ -11,6 +11,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AvhiArya20&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiArya20\&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiArya20\&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiArya20\&layout=compact" />
+</picture>
+
 <!--
 **AbhiArya20/AbhiArya20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

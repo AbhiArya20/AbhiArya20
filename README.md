@@ -24,9 +24,9 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=AbhiArya20&include_all_commits=true&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     />
-    <img
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiArya20&repo=coderoom&description_lines_count=1"
-    />
+    /> -->
   </div>
   <div style="position: relative">
     <img

@@ -1,19 +1,4 @@
-## Hi
-<img
-  src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif"
-  height="30px"
-/>
-
-<div
-  style="
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  "
->
-  <div
+ <div
     style="
       display: flex;
       flex-direction: column;
@@ -59,8 +44,6 @@
       </svg>
     </div>
   </div>
-</div>
-
 
 
 <!--

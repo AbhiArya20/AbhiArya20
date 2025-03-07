@@ -17,8 +17,8 @@
     style="
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-      gap: .5rem;
+      justify-content: center;
+      gap: 0.5rem;
     "
   >
     <img
@@ -60,6 +60,7 @@
     </span>
   </span>
 </div>
+
 
 <!--
 **AbhiArya20/AbhiArya20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

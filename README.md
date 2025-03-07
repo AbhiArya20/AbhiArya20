@@ -1,18 +1,3 @@
-## Hi
-<img
-  src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif"
-  height="30px"
-/>
-
-<div
-  style="
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  "
->
   <span
     style="
       display: flex;
@@ -28,8 +13,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiArya20&repo=coderoom&description_lines_count=1"
     />
   </span>
-  
-</div>
 
 
 <!--

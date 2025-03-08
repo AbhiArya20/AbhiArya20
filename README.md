@@ -7,7 +7,7 @@
 </thead>
 <tbody>
 <tr>
-<td>
+<td style="width:max-content;">
 
 <picture>
 <source
@@ -22,7 +22,7 @@
 </picture>
 
 
-<picture width="468px">
+<picture>
 <source
 width="468px"
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=AbhiArya20&repo=coderoom&description_lines_count=1&border_radius=20&show_owner=true"

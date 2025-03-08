@@ -5,7 +5,7 @@ A passionate Software Developer with 1+ years of experience in the JavaScript ec
 
 Currently exploring every node in the technology graph, using DFS or BFS — you can track my visited nodes on [learnings](https://learnings.abhiarya.in).
 
-😄 Always excited when my PRs get merged!
+Always excited when my PRs get merged! 😄 
 
 
 [More about me &rarr;](https://abhiarya.in)

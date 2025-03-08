@@ -5,7 +5,7 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" height="20px" /> Welcome to [Abhishek Kumar's](https://abhiarya.in) GitHub!
 
-I am an engineer navigating through the technology graph with depth-first exploration 
+I am an engineer navigating through the technology graph with depth-first exploration.
 
 [More about me &rarr;](https://abhiarya.in)
 

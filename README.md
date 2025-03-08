@@ -1,4 +1,10 @@
 <table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>

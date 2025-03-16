@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" height="20px" /> Welcome to [Abhishek Kumar's](https://abhiarya.in) GitHub!
 
 
-A passionate Software Developer with 1+ years of experience in the JavaScript ecosystem, Python, and Flutter, building scalable and meaningful projects.
+A Software Developer with 1+ years of experience in the JavaScript ecosystem, Python, and Flutter, building scalable and meaningful projects.
 
 Currently exploring every node in the technology graph, using DFS or BFS — you can track my visited nodes on [learnings](https://learnings.abhiarya.in).
 
